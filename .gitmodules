@@ -1,0 +1,9 @@
+[submodule "deps/libuv"]
+	path = deps/libuv
+	url = git://github.com/joyent/libuv.git
+[submodule "deps/jstring"]
+	path = deps/jstring
+	url = git://github.com/misterdjules/jstring.git
+[submodule "deps/debug"]
+	path = deps/debug
+	url = git://github.com/misterdjules/debug.git
